@@ -1,7 +1,7 @@
 # Go_Chase_It_1
 Making a robot to chase a white-coloured-ball - All in a virtual world!
 
-Project Aim:
+## Project Aim:
 
   1) To create two ROS packages inside ```/src```: the ```drive_bot``` and the ```ball_chaser```.
   
@@ -21,7 +21,7 @@ Project Aim:
     - The ```ball_chaser.launch``` should run both the drive_bot and the process_image nodes.
     
   
-  Instructions to download and run the project:
+## Instructions to download and run the project:
   
   1) Create a new folder, say Go_Chase_It_1 and clone this repository with ```git clone https://github.com/sourabhmisal/Go_Chase_It_1.git``` 
   
